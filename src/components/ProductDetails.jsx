@@ -19,7 +19,7 @@ class ProductDetails extends Component {
                  
         }
 
-        //handleInputChange = this.handleInputChange.bind(this);
+    
 
 
     handleInputChange = (e) => {
