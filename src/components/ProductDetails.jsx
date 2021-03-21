@@ -20,7 +20,7 @@ class ProductDetails extends Component {
         }
 
     
-//2nd branch created
+//2nd branch created  modified for conflict
 
     handleInputChange = (e) => {
         this.setState({[e.target.name] : e.target.value})
