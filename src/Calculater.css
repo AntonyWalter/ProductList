@@ -1,0 +1,14 @@
+.calculator{
+    width: 400px;
+    border: 1px solid green;
+    margin: 10px;
+   }
+   input{
+       margin: 5px;  
+   }
+   .button-style{
+       width: 100%;
+       border: 1px solid white;
+       display: grid;
+       grid-template-columns: 1fr 1fr 1fr;
+   }
